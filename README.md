@@ -1,6 +1,8 @@
 
- [WEATHER APP LINK](https://weather-app-siddharth.netlify.app/){:target="_blank"}
  
+ 
+<a href="https://weather-app-siddharth.netlify.app/" target="_blank">WEATHER APP LINK</a>
+
  
  # Weather App Documentation
 
