@@ -31,7 +31,8 @@ This weather app allows users to check the current weather in their location or 
 
 4. **Loading State**:
    - Shows a loading animation while fetching weather data to enhance user experience.
-
+## UI
+![](ui.jpeg)
 ## JavaScript Implementation (script.js)
 
 ### API Key
